@@ -1,0 +1,17 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_WIN11_BYPASS_CHECK": "1" }
+    ],
+    "theme":{
+        "file": "/ventoy/themes/night/theme.txt",
+        "gfxmode": "1920x1080",
+        "ventoy_top": "1%",
+        "ventoy_color": "#cccccc",
+        "fonts":[
+            "/ventoy/themes/night/DejaVuSans-48.pf2",
+            "/ventoy/themes/night/terminus-18.pf2",
+            "/ventoy/themes/night/terminus-16.pf2"
+        ]
+    }
+}
