@@ -6,10 +6,9 @@
 
 
 # Установка
-Скопируйте `themes` и `ventoy.json` в корень USB
+Скопируйте `ventoy` в корень USB
 ```bash
 git clone https://github.com/DesSolo/ventoy-night-theme.git
 cd ventoy-night-theme
-cp -r themes /mnd/media/usb
-cp ventoy.json /mnd/media/usb
+cp -r ventoy /mnd/media/usb/
 ```
